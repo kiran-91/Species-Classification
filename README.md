@@ -2,7 +2,7 @@
 ## Getting Started with Streamlit 
 
 ## Overview
-This repository contains a machine learning project that uses Streamlit to create a web-based application for species classification. The app uses a Random Forest Classifier trained on the Iris dataset to predict the species of an iris flower based on its sepal and petal measurements.
+This repository contains a simple machine learning project that uses Streamlit to create a web-based application for species classification. The app uses a Random Forest Classifier trained on the Iris dataset to predict the species of an iris flower based on its sepal and petal measurements.
 
 ## Requirements
 1. Python
