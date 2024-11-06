@@ -1,4 +1,4 @@
-# Species-Classification this is my project
+# Species-Classification this is my
 ## Getting Started with Streamlit 
 
 ## Overview
