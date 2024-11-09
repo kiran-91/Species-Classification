@@ -1,4 +1,4 @@
-# Species-Classification hi hello this is kiran deshpande
+# Species-Classification hi hello this is kiran
 ## Getting Started with Streamlit 
 
 ## Overview
