@@ -1,4 +1,4 @@
-# Species-Classification hi hello 
+# Species-Classification
 ## Getting Started with Streamlit 
 
 ## Overview
